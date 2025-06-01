@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+venv/
+env/
+build/
+dist/
+*.egg
+*.log
+*.swp
+
+# IDE / Editor specific (可选)
+.vscode/
+.idea/
+
+# OS specific (可选)
+.DS_Store
+Thumbs.db
